@@ -1,0 +1,6 @@
+main: dev.timeunit.libraries.Library
+version: 1.0
+author: TimeUnit
+name: Library
+softdepend: [ ProtocolLib ]
+load: STARTUP
